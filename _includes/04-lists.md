@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. assignment
+2. college
+3. cs
